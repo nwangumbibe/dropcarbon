@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DROP CARBON</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 0; padding: 0; color: #333; }
+        .header, .footer { background-color: #006837; color: white; padding: 10px 20px; text-align: center; }
+        .header { position: fixed; top: 0; width: 100%; }
+        .footer { position: fixed; bottom: 0; width: 100%; }
+        .section { padding: 50px 20px; }
+        .hero { background: url('your-image-url.jpg') no-repeat center center; background-size: cover; height: 300px; display: flex; align-items: center; justify-content: center; }
+        .hero h1 { color: white; font-size: 24px; }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <h1>DROP CARBON</h1>
+    </div>
+    <div class="hero">
+        <h1>Revolutionizing Carbon Offset Funding and Eco-Friendly Marketplace</h1>
+    </div>
+    <div class="section" id="about">
+        <h2>About DROP CARBON</h2>
+        <p>[Details about DROP CARBON...]</p>
+    </div>
+    <div class="section" id="vision">
+        <h2>Our Vision</h2>
+        <p>[Vision statement...]</p>
+    </div>
+    <div class="section" id="advantages">
+        <h2>The DROP CARBON Advantage</h2>
+        <ul>
+            <li>[Advantage detail...]</li>
+            <li>[Advantage detail...]</li>
+        </ul>
+    </div>
+    <div class="section" id="marketplace">
+        <h2>Eco-Friendly Marketplace</h2>
+        <p>[Marketplace preview...]</p>
+    </div>
+    <div class="section" id="commitment">
+        <h2>Our Commitment to Sustainability</h2>
+        <p>[Commitment details...]</p>
+    </div>
+    <div class="section" id="get-involved">
+        <h2>Get Involved</h2>
+        <p>[Information on how to get involved...]</p>
+    </div>
+    <div class="footer">
+        <p>© 2024 DROP CARBON. All rights reserved.</p>
+    </div>
+</body>
+</html>
